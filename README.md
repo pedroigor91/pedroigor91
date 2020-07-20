@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 📫 How to reach me:
+
+- Twitter: [@pedroigor91](https://twitter.com/pedroigor91)
+- Linkedin: [pedroigor91](https://www.linkedin.com/in/pedroigor91)
+- StackOverflow: [pedro-igor](https://pt.stackoverflow.com/users/39670/pedro-igor)
